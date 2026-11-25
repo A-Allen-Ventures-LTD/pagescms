@@ -6,7 +6,7 @@ You can use the hosted version directly at [app.pagescms.org](https://app.pagesc
 
 [![Screenshot of the Pages CMS editor](https://pagescms.org/media/screenshot.png)](https://demo.pagescms.org)
 
-*[Watch the demo ▶](https://demo.pagescms.org)*
+_[Watch the demo ▶](https://demo.pagescms.org)_
 
 ## Documentation
 
@@ -138,3 +138,9 @@ For more detail, see:
 ## License
 
 Everything in this repo is released under the [MIT License](LICENSE).
+
+npm run setup:github-app -- \
+ --base-url https://cms.digitalhand.co.uk \
+ --owner-type org \
+ --org A-Allen-Ventures-LTD \
+ --app-name "Digital Hand CMS" \
